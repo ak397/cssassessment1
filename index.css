@@ -1,0 +1,18 @@
+h1,h2{
+    color: red;
+}
+li{
+    color: brown;
+}
+.bg{
+    background: yellow;
+}
+.lt{
+    text-decoration: line-through;
+}
+p{
+    color: brown;
+}
+ul{
+    letter-spacing: 5px;
+}
